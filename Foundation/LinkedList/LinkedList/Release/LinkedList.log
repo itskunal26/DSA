@@ -1,7 +1,7 @@
-﻿  LinkedList.cpp
+﻿  DCLL.cpp
   Generating code
-  14 of 24 functions (58.3%) were compiled, the rest were copied from previous compilation.
-    13 functions were new in current compilation
-    3 functions had inline decision re-evaluated but remain unchanged
+  2 of 20 functions (10.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   LinkedList.vcxproj -> D:\Switch_2\DSA\Foundation\LinkedList\Release\LinkedList.exe

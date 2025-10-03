@@ -252,7 +252,7 @@ public:
 };
 
 
-int main()
+int main_SLL()
 {
 	SLL obj;
 
@@ -277,7 +277,7 @@ int main()
 
 	obj.print_list();
 
-
+	return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

@@ -16,10 +16,16 @@
     <Filter Include="SinglyLinkedList">
       <UniqueIdentifier>{fe9433b2-1ec4-4e2f-9d17-d2f4dada82b9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="DCLL">
+      <UniqueIdentifier>{764894a0-0dd5-4616-9842-b9c952542bdb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LinkedList.cpp">
       <Filter>SinglyLinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="DCLL.cpp">
+      <Filter>DCLL</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
